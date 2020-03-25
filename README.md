@@ -1,5 +1,5 @@
 # linearRegression
-Linear Regression Matrix and Normal Equetion model (Octave)
+Linear Regression Matrix and Normal Equetion model (Octave), could be used in Matlab as well
 
 Task has been done in Octave 5.2 (in minor version should work as well)
 
